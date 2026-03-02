@@ -26,4 +26,4 @@ A simple Android music player app with a single screen that lets users play, pau
 ## 📸 Screenshots
 
 ### Main Player Screen
-<img width="1080" height="2400" alt="Music Player Main Screen" src="https://github.com/user-attachments/assets/4264e47a-1d6f-4862-a33f-c67c74a0bf15" />
+https://github.com/user-attachments/assets/4264e47a-1d6f-4862-a33f-c67c74a0bf15
