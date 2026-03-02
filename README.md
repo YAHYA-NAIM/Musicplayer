@@ -1,10 +1,29 @@
 
+# Music Player 🎵
 
-**Music player:**
+A simple Android music player app with a single screen that lets users play, pause, skip, and rewind a static list of three preloaded songs.  
 
-https://github.com/user-attachments/assets/4264e47a-1d6f-4862-a33f-c67c74a0bf15
+---
 
-**Project Description:**
+## 📱 Features
 
+- ▶️ **Play / Pause** – Control playback of the songs.  
+- ⏭️ **Skip** – Move to the next song.  
+- ⏮️ **Rewind** – Go back to the previous song.  
+- 🎵 **Static Song List** – Three preloaded songs included in the app.  
 
-Cette application est un lecteur de musique Android simple qui permet aux utilisateurs de parcourir, rechercher et écouter une liste de chansons préchargées. Les principales fonctionnalités incluent des contrôles de lecture, un filtrage des chansons et la possibilité de marquer des morceaux comme favoris.
+---
+
+## 🛠️ Technologies Used
+
+- **Kotlin**  
+- **Android Studio**  
+- **MediaPlayer** – For audio playback  
+- **XML Layout** – Single-screen UI  
+
+---
+
+## 📸 Screenshots
+
+### Main Player Screen
+<img width="1080" height="2400" alt="Music Player Main Screen" src="https://github.com/user-attachments/assets/4264e47a-1d6f-4862-a33f-c67c74a0bf15" />
